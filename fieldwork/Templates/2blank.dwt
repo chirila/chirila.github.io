@@ -42,23 +42,22 @@ body,td,th {
   <!-- TemplateEndEditable --></div> 
 <!--end content --> 
 <div id="navBar"> 
-  <div id="search"> 
-    <form action="#"> 
-      <label></label>      
-      <div align="center"><span class="feature"><a href="http://www.palgrave-usa.com/catalog/product.aspx?isbn=0230545386"><img src="cover.gif" alt="" width="149" height="240" border="0"></a></span>      </div>
-    </form> 
-  </div> 
-  <div id="sectionLinks"> 
-    <ul> 
-      <li><a href="author.htm">Author</a></li> 
-      <li><a href="errata.htm">Errata</a></li> 
-      <li><a href="chapter.htm">Chapter links </a></li> 
-      <li><a href="resources.htm">Resources</a></li> 
-	        <li><a href="sample.htm">Hungarian sample</a></li> 
-      <li><a href="feedback.htm">Feedback</a></li> 
-    </ul> 
-  </div> 
-  <div class="relatedLinks"> 
+ 
+       
+      <div align="center"><span class="feature"><a href="http://www.palgrave-usa.com/catalog/product.aspx?isbn=0230545386"><img src="cover.gif" alt="" width="149" height="240" border="0" align="absmiddle"></a></span>      </div>
+  <div id="headlines"> 
+  </div> <div></div></div><div id="navBar"> 
+    <div id="sectionLinks">
+      <ul>
+        <li><a href="author.htm">Author</a></li>
+        <li><a href="errata.htm">Errata</a></li>
+        <li><a href="chapter.htm">Chapter links </a></li>
+        <li><a href="resources.htm">Resources</a></li>
+        <li><a href="sample.htm">Hungarian sample</a></li>
+        <li><a href="feedback.htm">Feedback</a></li>
+      </ul>
+    </div>  
+    <div class="relatedLinks"> 
     <div id="eXTReMe"><a href="http://extremetracking.com/open?login=bowern"> </a>
         <script type="text/javascript"><!--
 var EXlogin='bowern' // Login
@@ -80,7 +79,7 @@ EXd.write("<img src=http://e1.extreme-dm.com",
     </span>    </div>
     <h3>&nbsp;</h3> 
   </div> 
-  </div> 
+</div> 
 <!--end navbar --> 
 <div id="siteInfo"> 
   <p><a href="http://extremetracking.com/open?login=bowern"><img src="http://t1.extreme-dm.com/i.gif" style="border: 0;"
